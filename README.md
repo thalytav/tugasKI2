@@ -1,4 +1,4 @@
-## TUGAS 2 KEAMANAN INFORMASI
+## TUGAS 2 KEAMANAN INFORMASI Kelas C
 
 | Nama | NRP |
 |-------------|---------|
