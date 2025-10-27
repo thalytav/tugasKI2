@@ -1,5 +1,5 @@
 import socket
-from des_core import *  # file DES-mu disimpan terpisah sebagai des_core.py
+from des_core import * 
 
 SERVER_IP = input("Masukkan IP server: ")
 PORT = 5555
@@ -37,3 +37,4 @@ def client_program():
 
 if __name__ == "__main__":
     client_program()
+
