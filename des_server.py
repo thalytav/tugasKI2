@@ -1,5 +1,5 @@
 import socket
-from des_core import *  # file DES-mu disimpan terpisah sebagai des_core.py
+from des_core import * 
 
 HOST = "0.0.0.0"  # biar bisa diakses dari device lain
 PORT = 5555
@@ -41,3 +41,4 @@ def server_program():
 
 if __name__ == "__main__":
     server_program()
+
